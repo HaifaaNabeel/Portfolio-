@@ -6,3 +6,37 @@
     background-position-x: right;
     background-position-y: 80px;
 }
+.second-lyer{
+    position:absolute;
+    height:100%;
+    width: 100%;
+    background-color: #000;
+    opacity: .8;
+}
+.head-text{
+     position: absolute;
+      color: #fff;
+     font-size:15px;
+      top:45vh;    
+  }
+.h2,h3{
+    text-align: center;
+}
+.social ul{
+    margin-top: 50vh;   
+    position:  relative;
+    float: right;
+}
+.social li{
+   display :block;
+    padding: 15px;
+}
+.lang ul{
+    margin-top: 70vh;margin-left: 5vh;   
+    position:  relative;
+    float: left;
+}
+.lang li{
+    display :block;
+     padding: 15px;
+ }
