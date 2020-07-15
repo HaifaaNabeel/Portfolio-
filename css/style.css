@@ -1,0 +1,8 @@
+.he{
+
+    position: relative;
+    background-image: url('../images/db.png');
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: 80px;
+}
