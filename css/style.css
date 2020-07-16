@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 @font-face{
     font-family: for_form;
     src: url('../fonts/corbel.ttf');
     font-style: oblique;
 }
+=======
+>>>>>>> db3a97ab9d701ae2ed450666e5a8cd26344d9377
 .he{
 
     position: relative;
@@ -11,7 +14,10 @@
     background-position-x: right;
     background-position-y: 80px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> db3a97ab9d701ae2ed450666e5a8cd26344d9377
 .second-lyer{
     position:absolute;
     height:100%;
@@ -53,6 +59,7 @@
     font-size:15px;
     padding: 11vh 70vh;
     
+<<<<<<< HEAD
 }
 .text1{
     height: 30vh;
@@ -108,4 +115,6 @@ input[type="submit"]{
       width: 20vh; 
       height:5vh ;
 
+=======
+>>>>>>> db3a97ab9d701ae2ed450666e5a8cd26344d9377
 }
